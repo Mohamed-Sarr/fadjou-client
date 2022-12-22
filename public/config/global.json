@@ -1,11 +1,7 @@
 {
   "admin_url": "https://www.myfadjou.app/",
   "supported_languages": [
-    "en",
-    "de",
-    "fr",
-    "pt",
-    "ar"
+    "fr"
   ],
   "api_path": "api/",
   "loading_time": 5000,
